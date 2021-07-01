@@ -1,0 +1,20 @@
+[
+  {
+    "id": "207",
+    "owner": "Bob Simmons",
+    "name": "Alexa Bot",
+    "status": "active"
+  },
+  {
+    "id": "223",
+    "owner": "Cindy Thomas",
+    "name": "Teams Bot",
+    "status": "active"
+  },
+  {
+    "id": "007",
+    "owner": "James Bond",
+    "name": "Test Bot",
+    "status": "active"
+  }
+]
